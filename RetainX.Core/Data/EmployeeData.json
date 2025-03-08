@@ -1,57 +1,57 @@
 ﻿[
-  {
-    "Name": "John Doe",
-    "EmployeeID": 101,
-    "Department": "Sales",
-    "WorkHours": 48,
-    "ManagerLeft": false,
-    "PeerLeftCount": 0,
-    "PulseScoreChange": 4,
-    "Transcript": "Love the team and culture!",
-    "IsSalarySatisfied": true
-  },
-  {
-    "Name": "Jane Smith",
-    "EmployeeID": 102,
-    "Department": "Marketing",
-    "WorkHours": 55,
-    "ManagerLeft": true,
-    "PeerLeftCount": 2,
-    "PulseScoreChange": -3,
-    "Transcript": "Workload is increasing, feeling uncertain.",
-    "IsSalarySatisfied": false
-  },
-  {
-    "Name": "Mark Johnson",
-    "EmployeeID": 103,
-    "Department": "HR",
-    "WorkHours": 40,
-    "ManagerLeft": false,
-    "PeerLeftCount": 0,
-    "PulseScoreChange": -5,
-    "Transcript": "Too much work, struggling with balance.",
-    "IsSalarySatisfied": false
-  },
-  {
-    "Name": "Sarah Brown",
-    "EmployeeID": 104,
-    "Department": "Finance",
-    "WorkHours": 40,
-    "ManagerLeft": false,
-    "PeerLeftCount": 0,
-    "PulseScoreChange": 6,
-    "Transcript": "Work is stable, enjoying it.",
-    "IsSalarySatisfied": true
-  },
-  {
-    "Name": "Alex White",
-    "EmployeeID": 105,
-    "Department": "Engineering",
-    "WorkHours": 50,
-    "ManagerLeft": false,
-    "PeerLeftCount": 2,
-    "PulseScoreChange": -2,
-    "Transcript": "Peers leaving, feeling a little uneasy.",
-    "IsSalarySatisfied": true
-  }
+    {
+      "Name": "John Doe",
+      "EmployeeID": 101,
+      "Department": "Sales",
+      "WorkHours": 48,
+      "ManagerLeft": false,
+      "PeerLeftCount": 0,
+      "PulseScoreChange": 4,
+      "Transcript": "I really love the team and the culture here The collaboration is fantastic and everyone is so supportive It is not just about work it is about growing together and making an impact The passion and dedication in this team are truly inspiring It pushes me to do my best every day Being part of this environment makes learning and improving so much easier I feel valued and motivated",
+      "IsSalarySatisfied": true
+    },
+    {
+      "Name": "Jane Smith",
+      "EmployeeID": 102,
+      "Department": "Marketing",
+      "WorkHours": 55,
+      "ManagerLeft": true,
+      "PeerLeftCount": 2,
+      "PulseScoreChange": -3,
+      "Transcript": "I am feeling dissatisfied with my role My workload has increased and there are no signs of a salary hike Losing my manager made things worse There is a lack of clear communication about career growth opportunities which is frustrating I feel like my efforts are not being recognized and the team morale has dropped since my manager left Many of my peers have left recently which has only added to the uncertainty in my role The work life balance has become difficult to manage with the increased workload I am considering looking for other opportunities if things do not improve",
+      "IsSalarySatisfied": false
+    },
+    {
+      "Name": "Mark Johnson",
+      "EmployeeID": 103,
+      "Department": "HR",
+      "WorkHours": 40,
+      "ManagerLeft": false,
+      "PeerLeftCount": 0,
+      "PulseScoreChange": -5,
+      "Transcript": "Too much work, struggling with balance.",
+      "IsSalarySatisfied": false
+    },
+    {
+      "Name": "Sarah Brown",
+      "EmployeeID": 104,
+      "Department": "Finance",
+      "WorkHours": 40,
+      "ManagerLeft": false,
+      "PeerLeftCount": 0,
+      "PulseScoreChange": 6,
+      "Transcript": "Work is stable, enjoying it.",
+      "IsSalarySatisfied": true
+    },
+    {
+      "Name": "Alex White",
+      "EmployeeID": 105,
+      "Department": "Engineering",
+      "WorkHours": 50,
+      "ManagerLeft": false,
+      "PeerLeftCount": 2,
+      "PulseScoreChange": -2,
+      "Transcript": "Peers leaving, feeling a little uneasy.",
+      "IsSalarySatisfied": true
+    }
 ]

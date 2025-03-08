@@ -7,6 +7,6 @@
         public string Department { get; set; }
 
         public bool Attrition { get; set; }
-        public float AttentionScore { get; set; }
+        public float RiskScore { get; set; }
     }
 }
