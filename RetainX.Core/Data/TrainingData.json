@@ -1,0 +1,452 @@
+﻿[
+  {
+    "WorkHours": 30,
+    "ManagerLeft": true,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": -6,
+    "Transcript": "Many colleagues are leaving, and I feel demotivated. There's uncertainty in my role, and I'm considering switching jobs.",
+    "IsSalarySatisfied": true,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 60,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": -6,
+    "Transcript": "I am feeling dissatisfied with my role. My workload has increased, and there are no signs of a salary hike. Losing my manager made things worse.",
+    "IsSalarySatisfied": false,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 30,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": 2,
+    "Transcript": "I am very happy with my job. The salary is good, and my work is appreciated. I enjoy working with my team and see growth opportunities.",
+    "IsSalarySatisfied": true,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 40,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": 2,
+    "Transcript": "I enjoy my work, but there are challenges. My manager supports me, and I see opportunities to grow.",
+    "IsSalarySatisfied": false,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 30,
+    "ManagerLeft": false,
+    "PeerLeftCount": 1,
+    "PulseScoreChange": 10,
+    "Transcript": "I am very happy with my job. The salary is good, and my work is appreciated. I enjoy working with my team and see growth opportunities.",
+    "IsSalarySatisfied": true,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 60,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": 10,
+    "Transcript": "I enjoy my work, but there are challenges. My manager supports me, and I see opportunities to grow.",
+    "IsSalarySatisfied": false,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 50,
+    "ManagerLeft": true,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": -2,
+    "Transcript": "I enjoy my work, but there are challenges. My manager supports me, and I see opportunities to grow.",
+    "IsSalarySatisfied": true,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 40,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": 10,
+    "Transcript": "I enjoy my work, but there are challenges. My manager supports me, and I see opportunities to grow.",
+    "IsSalarySatisfied": false,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 40,
+    "ManagerLeft": false,
+    "PeerLeftCount": 2,
+    "PulseScoreChange": -6,
+    "Transcript": "Many colleagues are leaving, and I feel demotivated. There's uncertainty in my role, and I'm considering switching jobs.",
+    "IsSalarySatisfied": true,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 60,
+    "ManagerLeft": false,
+    "PeerLeftCount": 1,
+    "PulseScoreChange": -10,
+    "Transcript": "I am feeling dissatisfied with my role. My workload has increased, and there are no signs of a salary hike. Losing my manager made things worse.",
+    "IsSalarySatisfied": false,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 40,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": 6,
+    "Transcript": "I enjoy my work, but there are challenges. My manager supports me, and I see opportunities to grow.",
+    "IsSalarySatisfied": true,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 50,
+    "ManagerLeft": false,
+    "PeerLeftCount": 1,
+    "PulseScoreChange": -2,
+    "Transcript": "I am feeling dissatisfied with my role. My workload has increased, and there are no signs of a salary hike. Losing my manager made things worse.",
+    "IsSalarySatisfied": false,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 60,
+    "ManagerLeft": true,
+    "PeerLeftCount": 1,
+    "PulseScoreChange": 6,
+    "Transcript": "I am very happy with my job. The salary is good, and my work is appreciated. I enjoy working with my team and see growth opportunities.",
+    "IsSalarySatisfied": true,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 60,
+    "ManagerLeft": false,
+    "PeerLeftCount": 2,
+    "PulseScoreChange": -2,
+    "Transcript": "I am feeling dissatisfied with my role. My workload has increased, and there are no signs of a salary hike. Losing my manager made things worse.",
+    "IsSalarySatisfied": false,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 50,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": -3,
+    "Transcript": "I enjoy my work, but there are challenges. My manager supports me, and I see opportunities to grow.",
+    "IsSalarySatisfied": true,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 50,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": 10,
+    "Transcript": "I enjoy my work, but there are challenges. My manager supports me, and I see opportunities to grow.",
+    "IsSalarySatisfied": false,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 30,
+    "ManagerLeft": false,
+    "PeerLeftCount": 3,
+    "PulseScoreChange": -10,
+    "Transcript": "Many colleagues are leaving, and I feel demotivated. There's uncertainty in my role, and I'm considering switching jobs.",
+    "IsSalarySatisfied": true,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 60,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": 6,
+    "Transcript": "I enjoy my work, but there are challenges. My manager supports me, and I see opportunities to grow.",
+    "IsSalarySatisfied": false,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 30,
+    "ManagerLeft": true,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": 6,
+    "Transcript": "I am very happy with my job. The salary is good, and my work is appreciated. I enjoy working with my team and see growth opportunities.",
+    "IsSalarySatisfied": true,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 40,
+    "ManagerLeft": false,
+    "PeerLeftCount": 1,
+    "PulseScoreChange": 6,
+    "Transcript": "I enjoy my work, but there are challenges. My manager supports me, and I see opportunities to grow.",
+    "IsSalarySatisfied": false,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 50,
+    "ManagerLeft": false,
+    "PeerLeftCount": 2,
+    "PulseScoreChange": -10,
+    "Transcript": "Many colleagues are leaving, and I feel demotivated. There's uncertainty in my role, and I'm considering switching jobs.",
+    "IsSalarySatisfied": true,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 50,
+    "ManagerLeft": false,
+    "PeerLeftCount": 1,
+    "PulseScoreChange": 2,
+    "Transcript": "I enjoy my work, but there are challenges. My manager supports me, and I see opportunities to grow.",
+    "IsSalarySatisfied": false,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 40,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": -10,
+    "Transcript": "I enjoy my work, but there are challenges. My manager supports me, and I see opportunities to grow.",
+    "IsSalarySatisfied": true,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 60,
+    "ManagerLeft": false,
+    "PeerLeftCount": 2,
+    "PulseScoreChange": -6,
+    "Transcript": "I am feeling dissatisfied with my role. My workload has increased, and there are no signs of a salary hike. Losing my manager made things worse.",
+    "IsSalarySatisfied": false,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 60,
+    "ManagerLeft": true,
+    "PeerLeftCount": 1,
+    "PulseScoreChange": 2,
+    "Transcript": "I am very happy with my job. The salary is good, and my work is appreciated. I enjoy working with my team and see growth opportunities.",
+    "IsSalarySatisfied": true,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 30,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": -2,
+    "Transcript": "I am feeling dissatisfied with my role. My workload has increased, and there are no signs of a salary hike. Losing my manager made things worse.",
+    "IsSalarySatisfied": false,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 60,
+    "ManagerLeft": false,
+    "PeerLeftCount": 1,
+    "PulseScoreChange": -3,
+    "Transcript": "I enjoy my work, but there are challenges. My manager supports me, and I see opportunities to grow.",
+    "IsSalarySatisfied": true,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 40,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": -6,
+    "Transcript": "I am feeling dissatisfied with my role. My workload has increased, and there are no signs of a salary hike. Losing my manager made things worse.",
+    "IsSalarySatisfied": false,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 30,
+    "ManagerLeft": false,
+    "PeerLeftCount": 2,
+    "PulseScoreChange": -10,
+    "Transcript": "Many colleagues are leaving, and I feel demotivated. There's uncertainty in my role, and I'm considering switching jobs.",
+    "IsSalarySatisfied": true,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 30,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": -2,
+    "Transcript": "I am feeling dissatisfied with my role. My workload has increased, and there are no signs of a salary hike. Losing my manager made things worse.",
+    "IsSalarySatisfied": false,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 30,
+    "ManagerLeft": true,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": 10,
+    "Transcript": "I am very happy with my job. The salary is good, and my work is appreciated. I enjoy working with my team and see growth opportunities.",
+    "IsSalarySatisfied": true,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 40,
+    "ManagerLeft": false,
+    "PeerLeftCount": 1,
+    "PulseScoreChange": -2,
+    "Transcript": "I am feeling dissatisfied with my role. My workload has increased, and there are no signs of a salary hike. Losing my manager made things worse.",
+    "IsSalarySatisfied": false,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 60,
+    "ManagerLeft": false,
+    "PeerLeftCount": 2,
+    "PulseScoreChange": -2,
+    "Transcript": "Many colleagues are leaving, and I feel demotivated. There's uncertainty in my role, and I'm considering switching jobs.",
+    "IsSalarySatisfied": true,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 60,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": 6,
+    "Transcript": "I enjoy my work, but there are challenges. My manager supports me, and I see opportunities to grow.",
+    "IsSalarySatisfied": false,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 50,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": 10,
+    "Transcript": "I am very happy with my job. The salary is good, and my work is appreciated. I enjoy working with my team and see growth opportunities.",
+    "IsSalarySatisfied": true,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 50,
+    "ManagerLeft": false,
+    "PeerLeftCount": 1,
+    "PulseScoreChange": 10,
+    "Transcript": "I enjoy my work, but there are challenges. My manager supports me, and I see opportunities to grow.",
+    "IsSalarySatisfied": false,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 60,
+    "ManagerLeft": true,
+    "PeerLeftCount": 3,
+    "PulseScoreChange": -6,
+    "Transcript": "Many colleagues are leaving, and I feel demotivated. There's uncertainty in my role, and I'm considering switching jobs.",
+    "IsSalarySatisfied": true,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 40,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": 10,
+    "Transcript": "I enjoy my work, but there are challenges. My manager supports me, and I see opportunities to grow.",
+    "IsSalarySatisfied": false,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 40,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": -3,
+    "Transcript": "I enjoy my work, but there are challenges. My manager supports me, and I see opportunities to grow.",
+    "IsSalarySatisfied": true,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 50,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": -2,
+    "Transcript": "I am feeling dissatisfied with my role. My workload has increased, and there are no signs of a salary hike. Losing my manager made things worse.",
+    "IsSalarySatisfied": false,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 60,
+    "ManagerLeft": false,
+    "PeerLeftCount": 1,
+    "PulseScoreChange": -2,
+    "Transcript": "Many colleagues are leaving, and I feel demotivated. There's uncertainty in my role, and I'm considering switching jobs.",
+    "IsSalarySatisfied": true,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 50,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": -10,
+    "Transcript": "I am feeling dissatisfied with my role. My workload has increased, and there are no signs of a salary hike. Losing my manager made things worse.",
+    "IsSalarySatisfied": false,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 30,
+    "ManagerLeft": true,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": 2,
+    "Transcript": "I am very happy with my job. The salary is good, and my work is appreciated. I enjoy working with my team and see growth opportunities.",
+    "IsSalarySatisfied": true,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 30,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": 10,
+    "Transcript": "I enjoy my work, but there are challenges. My manager supports me, and I see opportunities to grow.",
+    "IsSalarySatisfied": false,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 50,
+    "ManagerLeft": false,
+    "PeerLeftCount": 2,
+    "PulseScoreChange": 2,
+    "Transcript": "I am very happy with my job. The salary is good, and my work is appreciated. I enjoy working with my team and see growth opportunities.",
+    "IsSalarySatisfied": true,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 50,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": -10,
+    "Transcript": "I am feeling dissatisfied with my role. My workload has increased, and there are no signs of a salary hike. Losing my manager made things worse.",
+    "IsSalarySatisfied": false,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 40,
+    "ManagerLeft": false,
+    "PeerLeftCount": 1,
+    "PulseScoreChange": -2,
+    "Transcript": "I enjoy my work, but there are challenges. My manager supports me, and I see opportunities to grow.",
+    "IsSalarySatisfied": true,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 30,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": -2,
+    "Transcript": "I am feeling dissatisfied with my role. My workload has increased, and there are no signs of a salary hike. Losing my manager made things worse.",
+    "IsSalarySatisfied": false,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 40,
+    "ManagerLeft": true,
+    "PeerLeftCount": 1,
+    "PulseScoreChange": 2,
+    "Transcript": "I am very happy with my job. The salary is good, and my work is appreciated. I enjoy working with my team and see growth opportunities.",
+    "IsSalarySatisfied": true,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 30,
+    "ManagerLeft": false,
+    "PeerLeftCount": 1,
+    "PulseScoreChange": 2,
+    "Transcript": "I enjoy my work, but there are challenges. My manager supports me, and I see opportunities to grow.",
+    "IsSalarySatisfied": false,
+    "Attrition": false
+  }
+]

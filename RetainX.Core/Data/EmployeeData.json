@@ -1,0 +1,57 @@
+﻿[
+  {
+    "Name": "John Doe",
+    "EmployeeID": 101,
+    "Department": "Sales",
+    "WorkHours": 48,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": 4,
+    "Transcript": "Love the team and culture!",
+    "IsSalarySatisfied": true
+  },
+  {
+    "Name": "Jane Smith",
+    "EmployeeID": 102,
+    "Department": "Marketing",
+    "WorkHours": 55,
+    "ManagerLeft": true,
+    "PeerLeftCount": 2,
+    "PulseScoreChange": -3,
+    "Transcript": "Workload is increasing, feeling uncertain.",
+    "IsSalarySatisfied": false
+  },
+  {
+    "Name": "Mark Johnson",
+    "EmployeeID": 103,
+    "Department": "HR",
+    "WorkHours": 40,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": -5,
+    "Transcript": "Too much work, struggling with balance.",
+    "IsSalarySatisfied": false
+  },
+  {
+    "Name": "Sarah Brown",
+    "EmployeeID": 104,
+    "Department": "Finance",
+    "WorkHours": 40,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": 6,
+    "Transcript": "Work is stable, enjoying it.",
+    "IsSalarySatisfied": true
+  },
+  {
+    "Name": "Alex White",
+    "EmployeeID": 105,
+    "Department": "Engineering",
+    "WorkHours": 50,
+    "ManagerLeft": false,
+    "PeerLeftCount": 2,
+    "PulseScoreChange": -2,
+    "Transcript": "Peers leaving, feeling a little uneasy.",
+    "IsSalarySatisfied": true
+  }
+]

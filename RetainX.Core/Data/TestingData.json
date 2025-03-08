@@ -1,0 +1,29 @@
+﻿[
+  {
+    "WorkHours": 55,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": 6,
+    "Transcript": "Great job, love the team!",
+    "IsSalarySatisfied": true,
+    "Attrition": false
+  },
+  {
+    "WorkHours": 42,
+    "ManagerLeft": false,
+    "PeerLeftCount": 0,
+    "PulseScoreChange": -4,
+    "Transcript": "Great work, but salary too low.",
+    "IsSalarySatisfied": true,
+    "Attrition": true
+  },
+  {
+    "WorkHours": 40,
+    "ManagerLeft": false,
+    "PeerLeftCount": 2,
+    "PulseScoreChange": -6,
+    "Transcript": "Overworked, struggling to balance life.",
+    "IsSalarySatisfied": false,
+    "Attrition": true
+  }
+]

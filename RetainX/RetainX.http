@@ -1,0 +1,6 @@
+@RetainX_HostAddress = http://localhost:5265
+
+GET {{RetainX_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
