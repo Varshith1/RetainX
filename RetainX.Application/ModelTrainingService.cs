@@ -48,6 +48,9 @@ namespace RetainX.Application
             if (selectedFeatures.Any(f => f.Feature == "IsSalarySatisfied"))
                 pipeline = pipeline.Append(mlContext.Transforms.Conversion.ConvertType("IsSalarySatisfied", outputKind: DataKind.Single));
 
+            if (selectedFeatures.Any(f => f.Feature == "PeerLeftCount"))
+                pipeline = pipeline.Append(mlContext.Transforms.Conversion.ConvertType("PeerLeftCount", outputKind: DataKind.Single));
+
             // Concatenate selected features
             var features = selectedFeatures.Select(feature => feature.Feature).ToArray();
             pipeline = pipeline.Append(mlContext.Transforms.Concatenate("Features", features));

@@ -1,6 +1,22 @@
 [
   {
-    "Feature": "ManagerLeft",
-    "Weight": 1.0
+    "Feature": "WorkHours",
+    "Weight": 0.0
+  },
+  {
+    "Feature": "PeerLeftCount",
+    "Weight": 0.0
+  },
+  {
+    "Feature": "PulseScoreChange",
+    "Weight": 0.0
+  },
+  {
+    "Feature": "Transcript",
+    "Weight": 0.0
+  },
+  {
+    "Feature": "IsSalarySatisfied",
+    "Weight": 0.0
   }
 ]
