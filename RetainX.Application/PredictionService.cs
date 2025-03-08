@@ -47,7 +47,7 @@ namespace RetainX.Application
                 Name = employee.Name,
                 Department = employee.Department,
                 Attrition = predictionResult.Attrition,
-                AttentionScore = predictionResult.Probability * 100,
+                RiskScore = predictionResult.Probability * 100,
             };
 
         }
