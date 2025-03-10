@@ -4,6 +4,7 @@ using RetainX.Core;
 
 namespace RetainX.WebAPI.Controllers
 {
+    [Route("api/retainx/Features")]
     public class FeatureSelectionController : Controller
     {
         private readonly IFeatureService _featureService;

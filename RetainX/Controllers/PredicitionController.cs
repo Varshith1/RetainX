@@ -5,13 +5,13 @@ using RetainX.Core;
 
 namespace RetainX.WebAPI.Controllers
 {
-    [Route("api/retainx")]
-    public class PredcitionController : Controller
+    [Route("api/retainx/predict")]
+    public class PredicitionController : Controller
     {
         private readonly IPredictionService _predictionService;
 
         // Constructor to inject PredictionService
-        public PredcitionController(IPredictionService predictionService)
+        public PredicitionController(IPredictionService predictionService)
         {
             _predictionService = predictionService;
         }
